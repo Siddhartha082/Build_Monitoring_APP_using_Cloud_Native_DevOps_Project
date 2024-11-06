@@ -1,4 +1,5 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
+# notes - Demo- diagrams + Pracicals updated in the PDF format(notes.pdf)
 
 ## Things you will Learn 🤯
 
